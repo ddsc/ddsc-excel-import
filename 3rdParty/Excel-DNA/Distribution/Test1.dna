@@ -1,0 +1,16 @@
+<DnaLibrary Language="CS">
+	<![CDATA[
+	
+	  using ExcelDna.Integration;
+	
+		public class MyFunctions
+		{
+			[ExcelFunction(Description="Joins a string to a number", Category="Useful functions")]
+			public static string JoinThem(string str, double val)
+			{
+				return str + val;
+			}
+		}
+		
+	]]>
+</DnaLibrary>

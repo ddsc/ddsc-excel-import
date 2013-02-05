@@ -1,0 +1,14 @@
+D:\Private_Repositories\DDSCExcelPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\Private_Repositories\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.xll
+D:\Private_Repositories\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.dna
+D:\Private_Repositories\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.dll
+D:\Private_Repositories\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.pdb
+D:\Private_Repositories\DDSCExcelPlugin\obj\Debug\DDSCExcelPlugin.dll
+D:\Private_Repositories\DDSCExcelPlugin\obj\Debug\DDSCExcelPlugin.pdb
+D:\GitHubRepositories\ddsc-excel-import\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.xll
+D:\GitHubRepositories\ddsc-excel-import\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.dna
+D:\GitHubRepositories\ddsc-excel-import\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.dll
+D:\GitHubRepositories\ddsc-excel-import\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.pdb
+D:\GitHubRepositories\ddsc-excel-import\DDSCExcelPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\GitHubRepositories\ddsc-excel-import\DDSCExcelPlugin\obj\Debug\DDSCExcelPlugin.dll
+D:\GitHubRepositories\ddsc-excel-import\DDSCExcelPlugin\obj\Debug\DDSCExcelPlugin.pdb

@@ -1,0 +1,3 @@
+﻿<DnaLibrary Name="DDSCExcelPlugin" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="DDSCExcelPlugin.dll" Pack="true"/>
+</DnaLibrary>

@@ -1,0 +1,7 @@
+D:\Scratch\DDSCTest\bin\Debug\DDSCTest.xll
+D:\Scratch\DDSCTest\bin\Debug\DDSCTest.dll
+D:\Scratch\DDSCTest\bin\Debug\DDSCTest.pdb
+D:\Scratch\DDSCTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Scratch\DDSCTest\obj\Debug\DDSCTest.dll
+D:\Scratch\DDSCTest\obj\Debug\DDSCTest.pdb
+D:\Scratch\DDSCTest\bin\Debug\DDSCTest.dna
