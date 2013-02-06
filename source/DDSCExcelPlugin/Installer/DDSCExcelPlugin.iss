@@ -17,11 +17,11 @@ VersionInfoProductVersion=1.0.0.0
 OutputBaseFileName="DDSCExcelPlugin"
 
 [Files]
-Source: "D:\Private_Repositories\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.xll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Private_Repositories\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Private_Repositories\DDSCExcelPlugin\bin\Debug\DDSCExcelPlugin.dna"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Private_Repositories\DDSCExcelPlugin\Excel\DDSC_import_location_timeseries.xls"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Private_Repositories\DDSCExcelPlugin\Excel\DDSC_import_location_timeseries.xlt"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\bin\Debug\DDSCExcelPlugin.xll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\bin\Debug\DDSCExcelPlugin.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\bin\Debug\DDSCExcelPlugin.dna"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\..\..\template\DDSC_import_location_timeseries.xls"; DestDir: "{app}"; Flags: ignoreversion
+Source: "..\..\..\template\DDSC_import_location_timeseries.xlt"; DestDir: "{app}"; Flags: ignoreversion
 
 [Registry]
 Root: "HKCU"; Subkey: "{code:GetExcelVersion}"; ValueType: string; ValueName: "{code:GetValueName|{code:GetExcelVersion}}"; ValueData: """{app}\DDSCExcelPlugin.xll"""; Flags: createvalueifdoesntexist
